@@ -11,7 +11,7 @@ export default function Home() {
 
         <h1 className="text-4xl sm:text-5xl md:text-6xl font-black tracking-tight text-slate-900 mb-8 sm:mb-10 leading-tight text-center text-balance">
           안녕하세요,<br />
-          <span className="text-sky-600">조진영입니다</span>
+          <span className="text-teal-600">조진영입니다</span>
         </h1>
 
         <div className="relative mb-8 sm:mb-10">
