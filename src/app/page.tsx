@@ -9,10 +9,14 @@ export default function Home() {
           Next.js + TypeScript + Tailwind CSS
         </div>
 
-        <h1 className="text-4xl sm:text-5xl md:text-6xl font-black tracking-tight text-slate-900 mb-8 sm:mb-10 leading-tight text-center text-balance">
+        <h1 className="text-4xl sm:text-5xl md:text-6xl font-black tracking-tight text-slate-900 mb-3 sm:mb-4 leading-tight text-center text-balance">
           안녕하세요,<br />
           <span className="text-teal-600">조진영입니다</span>
         </h1>
+
+        <p className="text-lg sm:text-xl font-medium text-slate-600 mb-8 sm:mb-10">
+          만나서 반갑습니다! 제 첫 사이트에 오신 것을 환영해요. ✨
+        </p>
 
         <div className="relative mb-8 sm:mb-10">
           <div className="w-28 h-28 sm:w-32 sm:h-32 rounded-full overflow-hidden border-4 border-white shadow-xl ring-4 ring-sky-200/70 transition-transform duration-300 hover:scale-105">
